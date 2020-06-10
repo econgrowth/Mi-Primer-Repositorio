@@ -23,3 +23,6 @@ En la clase de EconGrowth
 1 + 1
 ```
 
+
+
+# Esta es una nueva sección
